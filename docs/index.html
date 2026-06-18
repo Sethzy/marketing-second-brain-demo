@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>marketing-second-brain-demo</title>
+    <link rel="icon" href="data:,">
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #fbfbfa;
+        --text: #151515;
+        --muted: #5f6368;
+        --line: rgba(0, 0, 0, 0.1);
+        --surface: #ffffff;
+        --ink: #0f172a;
+        --accent: #0f766e;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        line-height: 1.55;
+      }
+      a { color: inherit; }
+      .shell {
+        width: min(1080px, calc(100% - 40px));
+        margin: 0 auto;
+        padding: 56px 0;
+      }
+      .hero {
+        display: grid;
+        gap: 24px;
+        padding: 44px;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: var(--surface);
+      }
+      .eyebrow {
+        color: var(--accent);
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+      h1 {
+        max-width: 820px;
+        margin: 0;
+        color: var(--ink);
+        font-size: clamp(34px, 6vw, 72px);
+        line-height: 0.98;
+        letter-spacing: 0;
+      }
+      .lede {
+        max-width: 760px;
+        margin: 0;
+        color: var(--muted);
+        font-size: 19px;
+      }
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+      .actions a {
+        display: inline-flex;
+        min-height: 42px;
+        align-items: center;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 0 16px;
+        background: #fff;
+        text-decoration: none;
+        font-weight: 650;
+      }
+      .actions a.primary {
+        border-color: var(--ink);
+        background: var(--ink);
+        color: #fff;
+      }
+      section {
+        margin-top: 28px;
+      }
+      h2 {
+        margin: 0 0 14px;
+        font-size: 22px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 14px;
+      }
+      .card {
+        min-height: 150px;
+        padding: 20px;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        background: var(--surface);
+      }
+      .card strong {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--ink);
+      }
+      .card p {
+        margin: 0;
+        color: var(--muted);
+      }
+      .flow {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 10px;
+      }
+      .step {
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        background: #fff;
+        color: var(--ink);
+        font-weight: 700;
+      }
+      .note {
+        padding: 22px;
+        border: 1px solid rgba(15, 118, 110, 0.24);
+        border-radius: 14px;
+        background: rgba(15, 118, 110, 0.06);
+        color: #164e48;
+      }
+      @media (max-width: 760px) {
+        .hero { padding: 28px; }
+        .grid, .flow { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <div class="hero">
+        <div class="eyebrow">Marketing intelligence wiki for agents</div>
+        <h1>Capture signal. Preserve evidence. Compile the marketing wiki.</h1>
+        <p class="lede">A public demo of a retrieval-first Second Brain narrowed to marketing: exact X captures, Last30Days sweeps, staging trust lanes, QMD retrieval, and source-backed wiki synthesis.</p>
+        <div class="actions">
+          <a class="primary" href="../README.md">Read the README</a>
+          <a href="../wiki/index.md">Open the wiki</a>
+          <a href="../examples/x-capture-to-wiki/README.md">X walkthrough</a>
+          <a href="../examples/last30days-to-wiki/README.md">Last30Days walkthrough</a>
+        </div>
+      </div>
+
+      <section>
+        <h2>Workflow</h2>
+        <div class="flow">
+          <div class="step">Capture signal</div>
+          <div class="step">Preserve raw</div>
+          <div class="step">Stage uncertainty</div>
+          <div class="step">Compile wiki</div>
+          <div class="step">Query with QMD</div>
+        </div>
+      </section>
+
+      <section>
+        <h2>Demo Corpus</h2>
+        <div class="grid">
+          <a class="card" href="../wiki/marketing/agentic-marketing-workflows.md"><strong>Agentic marketing</strong><p>Reusable loops across research, creative, content, websites, lifecycle, and analytics.</p></a>
+          <a class="card" href="../wiki/marketing/seo-aeo-geo-content-systems.md"><strong>SEO/AEO/GEO</strong><p>Search and answer-visibility workflows with source-backed briefs and validation.</p></a>
+          <a class="card" href="../wiki/marketing/performance-marketing-creative-ops.md"><strong>Creative ops</strong><p>Paid-media variants, constraints, approval gates, and feedback loops.</p></a>
+          <a class="card" href="../wiki/marketing/autonomous-websites-and-landing-pages.md"><strong>Autonomous pages</strong><p>Generated campaign pages from account, keyword, social, and ad signals.</p></a>
+          <a class="card" href="../wiki/marketing/lifecycle-crm-and-marketing-ops.md"><strong>Lifecycle CRM</strong><p>Signal capture, scoring, nurture, routing, consent, and audit trails.</p></a>
+          <a class="card" href="../wiki/marketing/marketing-analytics-and-fda-enablement.md"><strong>Enablement analytics</strong><p>Campaign analytics plus workflow maturity and AI-first adoption.</p></a>
+        </div>
+      </section>
+
+      <section class="note">
+        <strong>Trust model:</strong> raw captures are immutable evidence, staging is lower-trust signal, and wiki pages are compiled knowledge. The source map and log make changes auditable.
+      </section>
+    </main>
+  </body>
+</html>

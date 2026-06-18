@@ -1,0 +1,6 @@
+.DS_Store
+.qmd/
+node_modules/
+tmp/
+*.log
+
