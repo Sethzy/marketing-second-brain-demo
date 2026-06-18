@@ -23,18 +23,6 @@ Most marketing research workflows collapse into one of two bad shapes: a folder 
 
 The demo corpus is marketing-only: AI marketing workflows, SEO/AEO/GEO, paid creative ops, content systems, autonomous landing pages, lifecycle/CRM, UGC, analytics, and marketing enablement.
 
-## LLM Wiki Pattern
-
-The repo shape is inspired by the `Astro-Han/karpathy-llm-wiki` pattern: preserve source material in `raw/`, let agents maintain a compiled `wiki/`, keep `wiki/index.md` as the routing layer, and append operational changes to `wiki/log.md`.
-
-That distinction matters. `raw/` is evidence, `staging/` is uncertain signal, and `wiki/` is the LLM-maintained synthesis layer that can be revised as better sources arrive. The human asks questions and reviews judgment; agents handle retrieval, synthesis, provenance, and maintenance.
-
-In this marketing demo, the pattern becomes a source-backed funnel intelligence system:
-
-```text
-market signal -> raw evidence -> staged digest -> compiled marketing wiki -> QMD retrieval
-```
-
 ## Quick Start
 
 Clone the repo:
@@ -72,6 +60,18 @@ scripts/qmd-refresh.sh --embed
 ```
 
 The repo intentionally does not commit `.qmd/` state.
+
+## LLM Wiki Pattern
+
+The repo shape is inspired by the Karpathy LLM wiki pattern: preserve source material in `raw/`, let agents maintain a compiled `wiki/`, keep `wiki/index.md` as the routing layer, and append operational changes to `wiki/log.md`.
+
+That distinction matters. `raw/` is evidence, `staging/` is uncertain signal, and `wiki/` is the LLM-maintained synthesis layer that can be revised as better sources arrive. The human asks questions and reviews judgment; agents handle retrieval, synthesis, provenance, and maintenance.
+
+In this marketing demo, the pattern becomes a source-backed funnel intelligence system:
+
+```text
+market signal -> raw evidence -> staged digest -> compiled marketing wiki -> QMD retrieval
+```
 
 ## Philosophy
 
