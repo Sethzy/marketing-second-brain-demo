@@ -25,7 +25,7 @@
 - Create `wiki/marketing/performance-marketing-creative-ops.md`.
 - Promote the Anthropic Figma plugin and RSA workflow as exact examples.
 - Add the sweep as evidence that AI ad generation is a live trend across Google Ads, Meta Ads, and creative-variant tooling.
-- Link to `marketing-analytics-and-fda-enablement.md` because creative generation without measurement feedback is incomplete.
+- Link to `marketing-analytics-and-enablement.md` because creative generation without measurement feedback is incomplete.
 
 ## Sources Worth Manual Capture
 

@@ -29,7 +29,7 @@
 ## Sources Worth Manual Capture
 
 - The Microsoft AEO/GEO guide referenced by @alexgroberman.
-- AI visibility tracking tool roundups if Seth wants a tool shortlist.
+- AI visibility tracking tool roundups if a maintainer wants a tool shortlist.
 - @alpa_hoo AI-native growth workspace walkthrough, if it exposes product/workflow details.
 
 ## Cautions

@@ -30,13 +30,13 @@ JAZII's X content research agent is the clearest captured statement of the order
 
 ## Workflow Pattern
 
-- **Source gathering:** customer notes, product docs, launch brief, SME interviews, transcripts, raw links, campaign goals, and examples.
+- **Source gathering:** customer notes, product docs, launch brief, SME notes, transcripts, raw links, campaign goals, and examples.
 - **Market scanning:** creator lists, niche keywords, social posts, SERP/competitor pages, and performance signals gathered before writing begins.
 - **Editorial context:** voice, audience, positioning, claims, banned phrases, proof requirements, and channel formats.
 - **Drafting:** produce outlines, briefs, case-study sections, launch narratives, social variants, scripts, FAQs, or decks.
 - **Quality gate:** source provenance, factual accuracy, product/legal review, originality, human tone, SEO/AEO checks, and brand fit.
 - **Packaging:** CMS-ready Markdown/MDX, social calendar, script files, slide outline, partner enablement pack, or ad/landing-page copy.
-- **Learning loop:** record reviewer comments, performance, reuse patterns, and gaps in the skill/runbook.
+- **Learning loop:** record editor comments, performance, reuse patterns, and gaps in the skill/runbook.
 
 ## Editorial Principle
 
@@ -58,11 +58,11 @@ Exact examples come from Anthropic, Eric Siu, `jet-seo`, SEO Machine, and JAZII'
 
 ## Open Questions
 
-- What should be Seth's canonical brand/product context file for marketing demos?
-- Which content workflow best proves Stripe-fit: case study, launch brief, partner enablement kit, SEO article, or social campaign pack?
+- What should be the canonical brand/product context file for marketing demos?
+- Which content workflow best proves the demo: case study, launch brief, partner enablement kit, SEO article, or social campaign pack?
 - What quality gate catches AI slop without slowing the workflow too much?
-- What should Seth's reusable "research first, patterns second, writing third" social/content workflow look like across X, blog, and landing-page work?
-- Which reviewer comments should become durable skill memory versus one-off feedback?
+- What should the reusable "research first, patterns second, writing third" social/content workflow look like across X, blog, and landing-page work?
+- Which editor comments should become durable skill memory versus one-off feedback?
 
 ## See Also
 

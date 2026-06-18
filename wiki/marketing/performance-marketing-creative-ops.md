@@ -42,7 +42,7 @@ Ivan Falco's ads-skills repo and paid-ads transcript make the pattern more concr
 
 The agent is not replacing taste or performance judgment. It is compressing the low-level production and analysis loop so the marketer can test more hypotheses while staying inside product truth and platform constraints.
 
-The durable artifact for a Stripe-style FDA interview is a working creative-ops loop: one input folder, one brand/product rule file, one ads export, one generation command, one validation report, and one reviewable export.
+The durable public demo artifact is a working creative-ops loop: one input folder, one brand/product rule file, one ads export, one generation command, one validation report, and one reviewable export.
 
 ## Sources
 
@@ -61,16 +61,16 @@ Exact company claims should come from the Anthropic raw article. Sweep items are
 
 ## Open Questions
 
-- What minimum dataset should Seth use to demo the loop without exposing private ad account data?
+- What minimum dataset should a public demo use without exposing private ad account data?
 - Should the first artifact target Google Ads RSA, Meta static variants, Figma creatives, or landing-page variants?
 - What approval gate is sufficient before upload: human review checklist, diff report, platform preview, or all three?
-- Which performance fields should be normalized for feedback: impressions, CTR, CPC, CPA, CVR, pipeline, revenue, fatigue, or qualitative reviewer score?
+- Which performance fields should be normalized for feedback: impressions, CTR, CPC, CPA, CVR, pipeline, revenue, fatigue, or qualitative quality score?
 - What no-credentials demo should mirror Ivan's workflow: audience intelligence brief, paused-campaign JSON, creative pack, or all three?
 
 ## See Also
 
 - [Agentic Marketing Workflows](agentic-marketing-workflows.md)
-- [Marketing Analytics And FDA Enablement](marketing-analytics-and-fda-enablement.md)
+- [Marketing Analytics And Enablement](marketing-analytics-and-enablement.md)
 - [UGC And Creator Systems](ugc-and-creator-systems.md)
 - [Autonomous Websites And Landing Pages](autonomous-websites-and-landing-pages.md)
 - Agentic Artifact Surfaces

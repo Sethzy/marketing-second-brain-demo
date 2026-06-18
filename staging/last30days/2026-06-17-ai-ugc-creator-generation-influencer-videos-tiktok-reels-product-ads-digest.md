@@ -15,7 +15,7 @@
 ## Repeated Themes
 
 - The value is not just generating a face or video; it is generating many testable creative angles with UGC-like distribution fit.
-- Tool references include Arcads/TikTok-style workflows, video models, AI studios, and product-reviewer/avatar generation.
+- Tool references include Arcads/TikTok-style workflows, video models, AI studios, and product-demo/avatar generation.
 - Brand safety, disclosure, rights, likeness, and platform policy are central governance concerns.
 - UGC generation sits between content ops and performance marketing because the output is often a paid-social creative asset.
 
@@ -29,7 +29,7 @@
 
 - Arcads, TikTok AI creative, and product-ad workflow demos with clear steps.
 - Primary policy sources on synthetic creators, disclosures, likeness, and paid-social ad review.
-- TurboClip or other AI UGC studio references if Seth wants a tool shortlist.
+- TurboClip or other AI UGC studio references if a maintainer wants a tool shortlist.
 
 ## Cautions
 

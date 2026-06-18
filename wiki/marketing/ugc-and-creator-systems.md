@@ -57,7 +57,7 @@ The sweep establishes a strong public trend. The AI influencer capture provides 
 
 - Which primary platform-policy docs should be captured first for synthetic ads and AI creators?
 - Which tool category matters most: avatar creators, video models, UGC ad studios, editing agents, or ad-platform integrations?
-- What review checklist would let Seth discuss AI UGC responsibly in a marketing interview?
+- What review checklist would let a team discuss AI UGC responsibly in a marketing review?
 - Should UGC generation be positioned as a creative-ops sub-loop rather than a standalone category?
 
 ## See Also
@@ -65,5 +65,5 @@ The sweep establishes a strong public trend. The AI influencer capture provides 
 - [Agentic Marketing Workflows](agentic-marketing-workflows.md)
 - [Performance Marketing Creative Ops](performance-marketing-creative-ops.md)
 - [Content Ops And Editorial Systems](content-ops-and-editorial-systems.md)
-- [Marketing Analytics And FDA Enablement](marketing-analytics-and-fda-enablement.md)
+- [Marketing Analytics And Enablement](marketing-analytics-and-enablement.md)
 - Agentic Artifact Surfaces

@@ -3,7 +3,7 @@ type: wiki_article
 title: Lifecycle CRM And Marketing Ops
 updated_at: 2026-06-17
 status: draft
-source_count: 5
+source_count: 4
 tags:
   - marketing
   - lifecycle
@@ -15,12 +15,12 @@ tags:
 
 # Lifecycle CRM And Marketing Ops
 
-> Sources: Stripe FDA Marketing job posting, Eric Siu AI Marketing Skills README, lifecycle CRM Last30Days sweep, Agentic GTM Campaign Workflows, GTM Waterfall Enrichment APIs.
-> Raw: [Stripe FDA Marketing job posting](../../raw/intentional/pasted/2026-06-17-stripe-forward-deployed-ai-accelerator-marketing-job-posting.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Lifecycle CRM Last30Days raw](../../raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md); [Lifecycle CRM Last30Days digest](../../staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
+> Sources: Eric Siu AI Marketing Skills README, lifecycle CRM Last30Days sweep, Agentic GTM Campaign Workflows, GTM Waterfall Enrichment APIs.
+> Raw: [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Lifecycle CRM Last30Days raw](../../raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md); [Lifecycle CRM Last30Days digest](../../staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
 
 ## Overview
 
-Lifecycle, CRM, and marketing ops are under-evidenced in the current sweep but highly relevant to Stripe's role. Stripe explicitly lists marketing operations, growth, Marketo, Salesforce, analytics platforms, content management tools, workflow automation, and internal-tool scaling as useful adjacent experience.
+Lifecycle, CRM, and marketing ops are under-evidenced in the current sweep, but they matter because they connect marketing signal to routed action. The useful surface is capture, normalize, score, route, generate, govern, and measure across marketing automation, CRM, analytics, enrichment, and content-management tools.
 
 The compiled workflow should therefore stay draft: enough to map the category, not enough to make specific tool claims. The strongest adjacent evidence is Eric Siu's skill repo, which includes Sales Pipeline, Revenue Intelligence, ICP Learner, RB2B Router, Deal Resurrector, Trigger Prospector, revenue attribution, and client reports. The GTM Sales wiki already covers signal routing, enrichment, CRM updates, and approval gates.
 
@@ -40,18 +40,17 @@ Lifecycle marketing ops is the bridge between marketing signals and seller actio
 
 ## Sources
 
-This page relies on Stripe and Eric Siu for the category shape, with the sweep used only as a weak recency lead. Marketo/Salesforce primary docs and case studies still need capture.
+This page relies on Eric Siu and related GTM wiki pages for the category shape, with the sweep used only as a weak recency lead. Marketo/Salesforce primary docs and case studies still need capture.
 
 ## Raw Links
 
-- [Stripe FDA Marketing job posting](../../raw/intentional/pasted/2026-06-17-stripe-forward-deployed-ai-accelerator-marketing-job-posting.md)
 - [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md)
 - [Lifecycle CRM Last30Days raw](../../raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md)
 - [Lifecycle CRM Last30Days digest](../../staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
 
 ## Open Questions
 
-- Which platform should Seth research first for primary evidence: Marketo, Salesforce, HubSpot, Customer.io, Braze, or Segment?
+- Which platform should be researched first for primary evidence: Marketo, Salesforce, HubSpot, Customer.io, Braze, or Segment?
 - What lifecycle workflow can be safely demoed with synthetic data?
 - What approval gates are required before any CRM field update, email send, or lead-score change?
 - How should workflow provenance survive handoff between marketing ops and sales?
@@ -59,7 +58,7 @@ This page relies on Stripe and Eric Siu for the category shape, with the sweep u
 ## See Also
 
 - [Agentic Marketing Workflows](agentic-marketing-workflows.md)
-- [Marketing Analytics And FDA Enablement](marketing-analytics-and-fda-enablement.md)
+- [Marketing Analytics And Enablement](marketing-analytics-and-enablement.md)
 - Agentic GTM Campaign Workflows
 - GTM Waterfall Enrichment APIs
 - Agent Skill Libraries And Requirements

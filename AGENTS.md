@@ -1,6 +1,6 @@
 # Marketing Second Brain Demo Agent Guide
 
-You are working in a public demo of Seth's retrieval-first Second Brain, narrowed to marketing material.
+You are working in a public demo of a retrieval-first Second Brain, narrowed to marketing material.
 
 ## Prime Directive
 
@@ -30,7 +30,6 @@ This repo demonstrates marketing workflows only:
 - content/editorial systems
 - lifecycle CRM and marketing ops
 - UGC and creator systems
-- marketing analytics and FDA enablement
+- marketing analytics and enablement
 
-Do not add personal notes, private outreach, job application packets, or broad non-marketing source material.
-
+Do not add personal notes, private outreach, application packets, or broad non-marketing source material.

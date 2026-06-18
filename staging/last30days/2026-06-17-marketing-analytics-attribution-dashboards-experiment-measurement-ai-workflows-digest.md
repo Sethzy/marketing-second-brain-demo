@@ -10,7 +10,7 @@
 
 - The sweep points to measurement as the missing half of agentic marketing: dashboards, attribution, experiment tracking, and AI agents that can inspect performance data.
 - Lifesight MCP and Claude/Fable-style feedback loops appeared as leads for analytics inside agent workspaces.
-- Stripe's FDA role is stronger evidence for enablement analytics: cohort maturity, number of transformed workflows, and AI-first task adoption.
+- Marketing enablement is its own analytics problem: cohort maturity, number of transformed workflows, and AI-first task adoption.
 - Eric Siu's Growth Engine and Revenue Intelligence skills provide exact workflow categories for experiments, weekly scorecards, attribution, and client reports.
 
 ## Repeated Themes
@@ -21,8 +21,8 @@
 
 ## Candidate Wiki Updates
 
-- Create `wiki/marketing/marketing-analytics-and-fda-enablement.md`.
-- Treat FDA enablement as its own marketing analytics problem: track transformed workflows, cohort maturity, reusable assets, and self-sufficiency.
+- Create `wiki/marketing/marketing-analytics-and-enablement.md`.
+- Treat enablement as its own marketing analytics problem: track transformed workflows, cohort maturity, reusable assets, and self-sufficiency.
 - Link analytics back into every segment page as the evaluation loop.
 
 ## Sources Worth Manual Capture

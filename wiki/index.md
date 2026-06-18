@@ -1,6 +1,6 @@
 # Marketing Second Brain Demo Index
 
-This index routes agents and human reviewers through the marketing-only demo corpus.
+This index routes agents and readers through the marketing-only demo corpus.
 
 ## Mental Model
 
@@ -27,7 +27,7 @@ queries              -> QMD or rg       -> wiki + raw citations
 | [Content Ops And Editorial Systems](marketing/content-ops-and-editorial-systems.md) | Editorial and product-marketing systems for brand voice, source-backed drafting, case studies, scripts, launch briefs, and repurposing. | 2026-06-19 |
 | [Lifecycle CRM And Marketing Ops](marketing/lifecycle-crm-and-marketing-ops.md) | Lifecycle, CRM, lead scoring, nurture, routing, consent, audit trails, and marketing-to-sales handoff workflows. | 2026-06-19 |
 | [UGC And Creator Systems](marketing/ugc-and-creator-systems.md) | AI UGC and creator-video systems for product ads, TikTok/Reels formats, synthetic creator workflows, and governance risks. | 2026-06-19 |
-| [Marketing Analytics And FDA Enablement](marketing/marketing-analytics-and-fda-enablement.md) | Campaign analytics plus Stripe-style Forward Deployed AI enablement metrics: workflow transformation, cohort maturity, adoption, and self-sufficiency. | 2026-06-19 |
+| [Marketing Analytics And Enablement](marketing/marketing-analytics-and-enablement.md) | Campaign analytics plus marketing enablement metrics: workflow transformation, cohort maturity, adoption, and self-sufficiency. | 2026-06-19 |
 
 ## Retrieval Notes
 

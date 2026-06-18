@@ -9,26 +9,25 @@ topic -> raw/sweeps/last30days -> staging/last30days digest -> optional wiki pro
 The canonical demo sweep is:
 
 ```text
-raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md
+raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
 ```
 
 Its staged digest is:
 
 ```text
-staging/last30days/2026-06-17-ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-digest.md
+staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md
 ```
 
 Use the sweep wrapper when Last30Days is installed:
 
 ```bash
-scripts/last30days-to-sweeps.sh "AI marketing workflow transformation"
+scripts/last30days-to-sweeps.sh "performance marketing AI ad generation Google Ads Meta Ads creative variants"
 ```
 
 Stage a digest:
 
 ```bash
-scripts/stage-last30days-digest.sh raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md
+scripts/stage-last30days-digest.sh raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
 ```
 
-Promotion into `wiki/` should happen only after a reviewer decides the signal is durable enough or backs it with exact captures.
-
+Promotion into `wiki/` should happen only after a maintainer decides the signal is durable enough or backs it with exact captures.

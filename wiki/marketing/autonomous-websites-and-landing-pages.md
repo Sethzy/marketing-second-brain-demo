@@ -55,8 +55,8 @@ Flint captures carry the compiled claims. The sweep is retained as a staging dig
 
 ## Open Questions
 
-- Should Seth capture Flint's current homepage/docs directly before using Flint as a named case study?
-- Should Seth capture Ploy's homepage/onboarding directly to verify the site-slurper, self-serve pricing, and daily approval loop beyond the launch post?
+- Should this demo capture Flint's current homepage/docs directly before using Flint as a named case study?
+- Should it capture Ploy's homepage/onboarding directly to verify the site-slurper, self-serve pricing, and daily approval loop beyond the launch post?
 - What is the minimum safe page schema: source URL, account, personalization fields, CTA, owner, expiry, tracking, approval, and last reviewed?
 - How should generated pages avoid uncanny personalization or claims that exceed source evidence?
 - Which proof-of-work demo is best: Clay row to page, keyword to landing page, or social comment to page?
@@ -66,6 +66,6 @@ Flint captures carry the compiled claims. The sweep is retained as a staging dig
 - [Agentic Marketing Workflows](agentic-marketing-workflows.md)
 - [Performance Marketing Creative Ops](performance-marketing-creative-ops.md)
 - [SEO/AEO/GEO Content Systems](seo-aeo-geo-content-systems.md)
-- [Marketing Analytics And FDA Enablement](marketing-analytics-and-fda-enablement.md)
+- [Marketing Analytics And Enablement](marketing-analytics-and-enablement.md)
 - Agentic GTM Campaign Workflows
 - Agentic Artifact Surfaces

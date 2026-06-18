@@ -22,25 +22,6 @@
       "notes": "Demo corpus intentional capture used as source evidence."
     },
     {
-      "id": "raw/intentional/pasted/2026-06-17-stripe-forward-deployed-ai-accelerator-marketing-job-posting.md",
-      "title": "Stripe Forward Deployed AI Accelerator Marketing job posting",
-      "url": "https://stripe.com/jobs/listing/forward-deployed-ai-accelerator-marketing/7748114",
-      "source_type": "pasted",
-      "trust_lane": "intentional",
-      "capture_quality": "complete",
-      "raw_path": "raw/intentional/pasted/2026-06-17-stripe-forward-deployed-ai-accelerator-marketing-job-posting.md",
-      "staging_path": null,
-      "status": "compiled",
-      "wiki_paths": [
-        "wiki/marketing/agentic-marketing-workflows.md",
-        "wiki/marketing/lifecycle-crm-and-marketing-ops.md",
-        "wiki/marketing/marketing-analytics-and-fda-enablement.md"
-      ],
-      "staging_paths": [],
-      "updated_at": "2026-06-19T00:00:00Z",
-      "notes": "Demo corpus intentional capture used as source evidence."
-    },
-    {
       "id": "raw/intentional/pasted/2026-06-19-jazii-x-content-research-agent-article.md",
       "title": "JAZII X content research agent article",
       "url": "Unknown",
@@ -156,7 +137,7 @@
       "wiki_paths": [
         "wiki/marketing/agentic-marketing-workflows.md",
         "wiki/marketing/content-ops-and-editorial-systems.md",
-        "wiki/marketing/marketing-analytics-and-fda-enablement.md",
+        "wiki/marketing/marketing-analytics-and-enablement.md",
         "wiki/marketing/performance-marketing-creative-ops.md"
       ],
       "staging_paths": [],
@@ -177,7 +158,7 @@
         "wiki/marketing/agentic-marketing-workflows.md",
         "wiki/marketing/content-ops-and-editorial-systems.md",
         "wiki/marketing/lifecycle-crm-and-marketing-ops.md",
-        "wiki/marketing/marketing-analytics-and-fda-enablement.md",
+        "wiki/marketing/marketing-analytics-and-enablement.md",
         "wiki/marketing/performance-marketing-creative-ops.md",
         "wiki/marketing/seo-aeo-geo-content-systems.md"
       ],
@@ -311,23 +292,6 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md",
-      "title": "last30days v3.3.0: AI marketing workflow transformation Stripe Anthropic Claude Code marketers agents skills",
-      "url": "Unknown",
-      "source_type": "last30days",
-      "trust_lane": "sweep",
-      "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md",
-      "staging_path": null,
-      "status": "compiled",
-      "wiki_paths": [
-        "wiki/marketing/agentic-marketing-workflows.md"
-      ],
-      "staging_paths": [],
-      "updated_at": "2026-06-19T00:00:00Z",
-      "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
-    },
-    {
       "id": "raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md",
       "title": "last30days v3.3.0: AI UGC creator generation influencer videos TikTok Reels product ads",
       "url": "Unknown",
@@ -372,7 +336,7 @@
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
-        "wiki/marketing/marketing-analytics-and-fda-enablement.md"
+        "wiki/marketing/marketing-analytics-and-enablement.md"
       ],
       "staging_paths": [],
       "updated_at": "2026-06-19T00:00:00Z",
@@ -469,25 +433,6 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-digest.md",
-      "title": "Last30Days Digest: AI marketing workflow transformation Stripe Anthropic Claude Code marketers agents skills",
-      "url": "Unknown",
-      "source_type": "staging",
-      "trust_lane": "staging",
-      "capture_quality": "partial",
-      "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-digest.md",
-      "status": "staged",
-      "wiki_paths": [
-        "wiki/marketing/agentic-marketing-workflows.md"
-      ],
-      "staging_paths": [
-        "staging/last30days/2026-06-17-ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-digest.md"
-      ],
-      "updated_at": "2026-06-19T00:00:00Z",
-      "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
-    },
-    {
       "id": "staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md",
       "title": "Last30Days Digest: AI UGC creator generation influencer videos TikTok Reels product ads",
       "url": "Unknown",
@@ -536,7 +481,7 @@
       "staging_path": "staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md",
       "status": "staged",
       "wiki_paths": [
-        "wiki/marketing/marketing-analytics-and-fda-enablement.md"
+        "wiki/marketing/marketing-analytics-and-enablement.md"
       ],
       "staging_paths": [
         "staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md"

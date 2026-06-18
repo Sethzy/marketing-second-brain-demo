@@ -26,7 +26,7 @@ The local `jet-seo` project is the strongest implementation example. It defines 
 
 Claude SEO / Codex SEO is the specialist-audit example. It packages technical SEO, content quality, Schema.org, AI search/GEO, local, e-commerce, and international SEO into commands and specialist agents. Its useful contribution is the insistence on falsifiable recommendations, primary-source guidance, and measurable failure checks. The refreshed June 2026 repository snapshot shows the system evolving beyond a README into a plugin surface: marketplace metadata, command docs, architecture docs, extensions, hooks, tests, and per-domain `SKILL.md` files.
 
-TheCraigHewitt's SEO Machine is the complementary content-production workspace. Where Claude SEO emphasizes audit and falsifiable recommendations, SEO Machine emphasizes turning context into output: brand voice, style guides, target keywords, competitor analysis, internal-link maps, CRO best practices, AI-citation targets, Claude Code commands, specialist agents, Python data-source modules, and WordPress/Yoast publishing. For Seth's purposes, it is a strong reference for a repo-shaped SEO/content machine rather than a one-off prompt.
+TheCraigHewitt's SEO Machine is the complementary content-production workspace. Where Claude SEO emphasizes audit and falsifiable recommendations, SEO Machine emphasizes turning context into output: brand voice, style guides, target keywords, competitor analysis, internal-link maps, CRO best practices, AI-citation targets, Claude Code commands, specialist agents, Python data-source modules, and WordPress/Yoast publishing. For this demo, it is a strong reference for a repo-shaped SEO/content machine rather than a one-off prompt.
 
 ## AEO/GEO Framing
 
@@ -68,9 +68,9 @@ The exact workflow details come from `jet-seo`, SEO Machine, and Claude SEO. The
 ## Open Questions
 
 - Which primary AEO/GEO guidance should be captured next: Google AI optimization, Microsoft AEO/GEO, Perplexity/ChatGPT visibility docs, or tool-specific docs?
-- What is Seth's minimum AEO/GEO validation rubric for a portfolio project?
+- What is the minimum AEO/GEO validation rubric for a public demo?
 - Should `jet-seo` become a public proof-of-work artifact, a case-study screenshot, or a private reference implementation?
-- Should Seth's Stripe proof artifact borrow more from SEO Machine's content-production workspace or Claude SEO's audit-plugin architecture?
+- Should the public proof artifact borrow more from SEO Machine's content-production workspace or Claude SEO's audit-plugin architecture?
 - Which AI-search visibility tools deserve exact capture and testing?
 
 ## See Also

@@ -21,7 +21,7 @@ Most marketing research workflows collapse into one of two bad shapes: a folder 
 
 `marketing-second-brain-demo` shows a different operating model. Raw evidence stays immutable. Noisy sweeps are staged before promotion. The wiki is the compiled layer agents can improve over time. QMD provides retrieval across both source material and synthesis.
 
-The demo corpus is marketing-only: AI marketing workflows, SEO/AEO/GEO, paid creative ops, content systems, autonomous landing pages, lifecycle/CRM, UGC, analytics, and Stripe-style Forward Deployed AI enablement.
+The demo corpus is marketing-only: AI marketing workflows, SEO/AEO/GEO, paid creative ops, content systems, autonomous landing pages, lifecycle/CRM, UGC, analytics, and marketing enablement.
 
 ## Quick Start
 
@@ -117,10 +117,10 @@ Run a staged-signal workflow:
 
 ```bash
 scripts/last30days-to-sweeps.sh "AI marketing workflow transformation"
-scripts/stage-last30days-digest.sh raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md
+scripts/stage-last30days-digest.sh raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
 ```
 
-The public demo includes the resulting raw sweep and digest so reviewers can inspect the shape without live credentials.
+The public demo includes the resulting raw sweep and digest so readers can inspect the shape without live credentials.
 
 ## Architecture
 
@@ -146,8 +146,8 @@ Capture signal -> preserve evidence -> compile wiki -> query with QMD -> maintai
 - `wiki/log.md` - append-only operational history.
 - `wiki/marketing/agentic-marketing-workflows.md` - hub article for the demo corpus.
 - `raw/intentional/x/2026-06-18-bryant-chou-ploy-launch-x-post.md` - canonical exact-X walkthrough source.
-- `raw/sweeps/last30days/ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-raw.md` - canonical Last30Days walkthrough source.
-- `staging/last30days/2026-06-17-ai-marketing-workflow-transformation-stripe-anthropic-claude-code-marketers-agents-skills-digest.md` - staged digest from that sweep.
+- `raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md` - canonical Last30Days walkthrough source.
+- `staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md` - staged digest from that sweep.
 - `state/source-map.json` - provenance map from evidence to compiled pages.
 - `scripts/lint-second-brain.sh` - local verification.
 
@@ -173,7 +173,6 @@ Agents need a fast first-line retrieval layer across Markdown. QMD lets an agent
 
 The public wrapper documents the flow and expected dependencies. Authenticated capture requires local browser cookies and tooling that are not committed to this demo.
 
-**What should a reviewer notice?**
+**What should a reader notice?**
 
 That the system is not a pile of AI summaries. It preserves evidence, separates trust lanes, compiles reusable marketing knowledge, and gives agents a repeatable way to answer from the corpus.
-
