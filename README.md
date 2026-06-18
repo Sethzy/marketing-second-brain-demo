@@ -116,7 +116,7 @@ This table reflects the checked-in corpus, not a claim about every platform the 
 | Local and pasted captures | Included project snapshots, pasted articles, and imported source material that are useful for demos but still kept as raw evidence. | `raw/intentional/pasted/` |
 | Incomplete web leads | URL/context records where the full source text is not captured yet. These stay out of confident wiki claims. | `staging/incomplete-captures/web/` |
 
-Not represented in this demo corpus: Reddit, TikTok, Instagram, Polymarket, Hacker News, Digg, Threads, Pinterest, Bluesky, or live Perplexity search.
+Additional sources can be added on demand through platform APIs or source-specific capture adapters while keeping the same raw, staging, wiki, and QMD retrieval pattern.
 
 ## Usage Examples
 
