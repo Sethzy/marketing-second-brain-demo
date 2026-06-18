@@ -18,7 +18,7 @@ The public demo includes the raw Signal Sweep output:
 raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
 ```
 
-In a live private setup, the private runner writes the scan:
+In a live setup, the configured runner writes the scan:
 
 ```bash
 scripts/run-signal-sweep.sh "performance marketing AI ad generation Google Ads Meta Ads creative variants"

@@ -76,7 +76,7 @@ The repo intentionally does not commit `.qmd/` state.
 ## What It Supports
 
 - **Exact X capture lane** - paste a post URL, preserve the raw source, then compile the reusable marketing idea into the wiki.
-- **Signal Sweep research lane** - run handrolled recent-signal scans, save raw output, stage a digest, and selectively promote useful patterns.
+- **Signal Sweep research lane** - run recent-signal scans, save raw output, stage a digest, and selectively promote useful patterns.
 - **QMD retrieval** - search wiki, raw, and staging with lexical and semantic queries.
 - **Source-map provenance** - track which raw and staging files support which wiki pages.
 - **Append-only operations log** - show when knowledge was added, staged, or promoted.
@@ -85,7 +85,7 @@ The repo intentionally does not commit `.qmd/` state.
 
 ## How Signal Sweep Search Works
 
-Signal Sweep is the handrolled recent-signal lane. A topic query fans out across configured public sources, normalizes the results into ranked evidence clusters, and stores every useful item with a source label, URL, date, engagement counters, score, short rationale, and excerpt.
+Signal Sweep is the recent-signal research lane. A topic query fans out across configured public sources, normalizes the results into ranked evidence clusters, and stores every useful item with a source label, URL, date, engagement counters, score, short rationale, and excerpt.
 
 The included demo scans show the sources actually present in this repo: X posts and YouTube results/transcripts. Engagement is treated as attention evidence: likes, reposts, replies, comments, and views help rank what real people are reacting to. The point is not to replace Google; it is to catch live social and video signal that editorial search often misses.
 
@@ -169,9 +169,9 @@ Both. It is a working demo corpus plus a repo shape you can fork for another mar
 
 Links do not preserve source text, trust state, compiled synthesis, or retrieval paths. This repo treats source capture and synthesis as separate layers.
 
-**Why include Signal Sweep if it is noisy?**
+**Why stage Signal Sweep output?**
 
-Because marketers need recent signal, but recent signal should be staged and reviewed before becoming durable knowledge.
+Because marketers need emerging market signal, but recent-source evidence should be staged and reviewed before becoming durable knowledge.
 
 **Why include QMD?**
 

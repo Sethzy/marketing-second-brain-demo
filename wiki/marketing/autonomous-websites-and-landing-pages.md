@@ -26,7 +26,7 @@ The existing Flint captures are the strongest evidence. They describe custom pag
 
 Bryant Chou's Ploy launch adds a stronger platform-shape example. Ploy is framed as turning the company website into the operator of the growth system, not just a page generator: site, brand, CMS, CRM, campaigns, analytics, SEO, AEO, and customer data working together. The named use cases are Hex generating on-brand ABM pages at scale, Clay using its data to power programmatic SEO, and TNT Growth spinning up a landing page for each client ad. The daily-report loop is important: the system reports what it did, proposes what it wants to do next, and waits for approval before shipping.
 
-The Signal Sweep scan was thin and noisy for the exact Flint/Clay query, so it should not drive detailed claims. It still confirms the category direction: AI website/landing-page generation is being discussed alongside ABM personalization and campaign automation.
+The Signal Sweep scan was thin and mixed-quality for the exact Flint/Clay query, so it should not drive detailed claims. It still confirms the category direction: AI website/landing-page generation is being discussed alongside ABM personalization and campaign automation.
 
 ## Workflow Pattern
 

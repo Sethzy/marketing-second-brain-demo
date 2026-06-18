@@ -18,7 +18,7 @@ The public demo includes the completed raw capture:
 raw/intentional/x/2026-06-18-bryant-chou-ploy-launch-x-post.md
 ```
 
-In a live private setup, the wrapper is:
+In an authenticated local setup, the wrapper is:
 
 ```bash
 scripts/x-capture-to-raw.sh "https://x.com/bryantchou/status/..."
@@ -52,4 +52,3 @@ qmd get './wiki/marketing/autonomous-websites-and-landing-pages.md'
 ## Trust Note
 
 Complete X captures can support wiki claims. Partial X captures should stay in `staging/incomplete-captures/x/` until the source text is complete.
-

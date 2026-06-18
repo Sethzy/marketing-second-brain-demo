@@ -16,7 +16,7 @@ fi
 cat >&2 <<'MSG'
 This public demo does not include browser cookies or authenticated X capture tooling.
 
-In a private Second Brain, this command wraps an authenticated TweetDetail
+In an authenticated local setup, this command wraps a TweetDetail
 capture and writes complete posts to raw/intentional/x/ while staging partial
 captures under staging/incomplete-captures/x/.
 
@@ -24,4 +24,3 @@ See examples/x-capture-to-wiki/README.md for the completed demo flow.
 MSG
 
 exit 2
-

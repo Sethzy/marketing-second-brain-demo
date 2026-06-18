@@ -1,6 +1,6 @@
 # Signal Sweep Research Lane
 
-Signal Sweep is the handrolled recent-signal lane. It is useful for finding what people are reacting to now, but it is lower-trust than an intentional full-source capture.
+Signal Sweep is the recent-signal research lane. It is useful for finding what people are reacting to now, but it is lower-trust than an intentional full-source capture.
 
 The live runner fans out a topic query across configured public sources, then writes ranked evidence clusters with source labels, URLs, dates, engagement counters, scores, short rationales, and excerpts. The demo corpus only claims what the checked-in scans actually show: X posts plus YouTube results/transcripts.
 
@@ -22,7 +22,7 @@ Its staged digest is:
 staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md
 ```
 
-Use the scan wrapper when the private Signal Sweep runner is installed:
+Use the scan wrapper when the Signal Sweep runner is installed:
 
 ```bash
 scripts/run-signal-sweep.sh "performance marketing AI ad generation Google Ads Meta Ads creative variants"

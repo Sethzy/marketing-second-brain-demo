@@ -69,7 +69,7 @@ The exact workflow details come from `jet-seo`, SEO Machine, and Claude SEO. The
 
 - Which primary AEO/GEO guidance should be captured next: Google AI optimization, Microsoft AEO/GEO, Perplexity/ChatGPT visibility docs, or tool-specific docs?
 - What is the minimum AEO/GEO validation rubric for a public demo?
-- Should `jet-seo` become a public proof-of-work artifact, a case-study screenshot, or a private reference implementation?
+- Should `jet-seo` become a public proof-of-work artifact, a case-study screenshot, or an internal reference implementation?
 - Should the public proof artifact borrow more from SEO Machine's content-production workspace or Claude SEO's audit-plugin architecture?
 - Which AI-search visibility tools deserve exact capture and testing?
 

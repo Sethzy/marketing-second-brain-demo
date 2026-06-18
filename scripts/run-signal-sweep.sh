@@ -11,9 +11,9 @@ runner="${SIGNAL_SWEEP_CMD:-}"
 
 if [[ -z "$runner" ]]; then
   cat >&2 <<MSG
-The private Signal Sweep runner is not bundled in this public demo.
+The Signal Sweep runner is not bundled in this public demo.
 
-Expected private/live flow:
+Expected live flow:
   SIGNAL_SWEEP_CMD=/path/to/signal-sweep scripts/run-signal-sweep.sh "$topic"
 
 The runner should fan out to configured sources, score engagement-backed
