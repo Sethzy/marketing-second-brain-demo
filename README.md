@@ -19,7 +19,7 @@
 
 Most marketing research workflows collapse into one of two bad shapes: a folder of saved links nobody can query, or a set of AI summaries with no durable source trail.
 
-`marketing-second-brain-demo` shows a different operating model. Raw evidence stays immutable. Noisy scans are staged before promotion. The wiki is the compiled layer agents can improve over time. QMD provides retrieval across both source material and synthesis.
+`marketing-second-brain-demo` shows a different operating model. Raw evidence stays immutable. Mixed-quality scans are staged before promotion. The wiki is the compiled layer agents can improve over time. QMD provides retrieval across both source material and synthesis.
 
 The demo corpus is marketing-only: AI marketing workflows, SEO/AEO/GEO, paid creative ops, content systems, autonomous landing pages, lifecycle/CRM, UGC, analytics, and marketing enablement.
 
@@ -90,6 +90,21 @@ Signal Sweep is the recent-signal research lane. A topic query fans out across c
 The included demo scans show the sources actually present in this repo: X posts and YouTube results/transcripts. Engagement is treated as attention evidence: likes, reposts, replies, comments, and views help rank what real people are reacting to. The point is not to replace Google; it is to catch live social and video signal that editorial search often misses.
 
 The trust model is deliberately conservative. A Signal Sweep file is raw recent signal, not final truth. The digest extracts candidate themes into `staging/`, and wiki promotion happens only when a pattern is durable enough or backed by exact captures and stronger source evidence.
+
+## Sources In This Demo
+
+This table reflects the checked-in corpus, not a claim about every platform the broader pattern could support.
+
+| Source lane | What it contributes | Where to inspect it |
+|---|---|---|
+| X / Twitter exact captures | Specific posts and threads with original URLs, preserved as source evidence for wiki claims. | `raw/intentional/x/`, plus X-sourced pasted captures in `raw/intentional/pasted/` |
+| Signal Sweep: X | Recent social posts ranked into evidence clusters with engagement counters, scores, rationales, and excerpts. | `raw/sweeps/signal-sweeps/` and `staging/signal-sweeps/` |
+| YouTube | Video results, transcripts, views, comments, and tutorial-style evidence for marketing workflows. | `raw/intentional/youtube/` and Signal Sweep outputs in `raw/sweeps/signal-sweeps/` |
+| Web articles and docs | Official articles, README/docs pages, tool pages, and repository snapshots for stronger source-backed claims. | `raw/intentional/web/` |
+| Local and pasted captures | Included project snapshots, pasted articles, and imported source material that are useful for demos but still kept as raw evidence. | `raw/intentional/pasted/` |
+| Incomplete web leads | URL/context records where the full source text is not captured yet. These stay out of confident wiki claims. | `staging/incomplete-captures/web/` |
+
+Not represented in this demo corpus: Reddit, TikTok, Instagram, Polymarket, Hacker News, Digg, Threads, Pinterest, Bluesky, or live Perplexity search.
 
 ## Usage Examples
 
