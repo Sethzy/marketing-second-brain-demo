@@ -15,8 +15,8 @@ tags:
 
 # Autonomous Websites And Landing Pages
 
-> Sources: Flint custom-pages capture, Michelle Lim/Flint capture, Bryant Chou Ploy launch X post, autonomous landing pages Last30Days sweep, GTM campaign workflows, Anthropic artifact-surface references.
-> Raw: [Flint custom pages per prospect validation](../../raw/intentional/pasted/sunder-sync-2026-06-11/395-flint-custom-pages-per-prospect-validation.md); [Michelle Lim on apps and Flint](../../raw/intentional/pasted/sunder-sync-2026-06-11/146-michellelim-how-apps-dont-get-killed-by-claude-full.md); [Bryant Chou Ploy launch X post](../../raw/intentional/x/2026-06-18-bryant-chou-ploy-launch-x-post.md); [Autonomous landing pages Last30Days raw](../../raw/sweeps/last30days/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md); [Autonomous landing pages Last30Days digest](../../staging/last30days/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md)
+> Sources: Flint custom-pages capture, Michelle Lim/Flint capture, Bryant Chou Ploy launch X post, autonomous landing pages Signal Sweep scan, GTM campaign workflows, Anthropic artifact-surface references.
+> Raw: [Flint custom pages per prospect validation](../../raw/intentional/pasted/sunder-sync-2026-06-11/395-flint-custom-pages-per-prospect-validation.md); [Michelle Lim on apps and Flint](../../raw/intentional/pasted/sunder-sync-2026-06-11/146-michellelim-how-apps-dont-get-killed-by-claude-full.md); [Bryant Chou Ploy launch X post](../../raw/intentional/x/2026-06-18-bryant-chou-ploy-launch-x-post.md); [Autonomous landing pages Signal Sweep raw](../../raw/sweeps/signal-sweeps/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md); [Autonomous landing pages Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md)
 
 ## Overview
 
@@ -26,7 +26,7 @@ The existing Flint captures are the strongest evidence. They describe custom pag
 
 Bryant Chou's Ploy launch adds a stronger platform-shape example. Ploy is framed as turning the company website into the operator of the growth system, not just a page generator: site, brand, CMS, CRM, campaigns, analytics, SEO, AEO, and customer data working together. The named use cases are Hex generating on-brand ABM pages at scale, Clay using its data to power programmatic SEO, and TNT Growth spinning up a landing page for each client ad. The daily-report loop is important: the system reports what it did, proposes what it wants to do next, and waits for approval before shipping.
 
-The Last30Days sweep was thin and noisy for the exact Flint/Clay query, so it should not drive detailed claims. It still confirms the category direction: AI website/landing-page generation is being discussed alongside ABM personalization and campaign automation.
+The Signal Sweep scan was thin and noisy for the exact Flint/Clay query, so it should not drive detailed claims. It still confirms the category direction: AI website/landing-page generation is being discussed alongside ABM personalization and campaign automation.
 
 ## Workflow Pattern
 
@@ -43,15 +43,15 @@ The marketer's advantage is not infinite pages; it is tighter fit between audien
 
 ## Sources
 
-Flint captures carry the compiled claims. The sweep is retained as a staging digest and cautionary recency scan.
+Flint captures carry the compiled claims. The scan is retained as a staging digest and cautionary recency scan.
 
 ## Raw Links
 
 - [Flint custom pages per prospect validation](../../raw/intentional/pasted/sunder-sync-2026-06-11/395-flint-custom-pages-per-prospect-validation.md)
 - [Michelle Lim on apps and Flint](../../raw/intentional/pasted/sunder-sync-2026-06-11/146-michellelim-how-apps-dont-get-killed-by-claude-full.md)
 - [Bryant Chou Ploy launch X post](../../raw/intentional/x/2026-06-18-bryant-chou-ploy-launch-x-post.md)
-- [Autonomous landing pages Last30Days raw](../../raw/sweeps/last30days/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md)
-- [Autonomous landing pages Last30Days digest](../../staging/last30days/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md)
+- [Autonomous landing pages Signal Sweep raw](../../raw/sweeps/signal-sweeps/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md)
+- [Autonomous landing pages Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md)
 
 ## Open Questions
 

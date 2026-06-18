@@ -15,8 +15,8 @@ tags:
 
 # SEO AEO GEO Content Systems
 
-> Sources: jet-seo local project snapshot, TheCraigHewitt SEO Machine repository snapshot, AgriciDaniel Claude SEO README and refreshed repository snapshot, Eric Siu AI Marketing Skills README, SEO/AEO/GEO Last30Days sweep, and related GTM campaign workflows.
-> Raw: [jet-seo local project snapshot](../../raw/intentional/pasted/2026-06-17-jet-seo-atlas-seo-content-pipeline-local-project.md); [TheCraigHewitt SEO Machine repository snapshot](../../raw/intentional/web/2026-06-19-thecraighewitt-seomachine-repository-snapshot.md); [AgriciDaniel Claude SEO README](../../raw/intentional/web/2026-06-11-agricidaniel-claude-seo-readme.md); [AgricIDaniel Claude SEO repository snapshot, June 2026](../../raw/intentional/web/2026-06-19-agricidaniel-claude-seo-repository-snapshot-june-2026.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [SEO/AEO/GEO Last30Days raw](../../raw/sweeps/last30days/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md); [SEO/AEO/GEO Last30Days digest](../../staging/last30days/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md)
+> Sources: jet-seo local project snapshot, TheCraigHewitt SEO Machine repository snapshot, AgriciDaniel Claude SEO README and refreshed repository snapshot, Eric Siu AI Marketing Skills README, SEO/AEO/GEO Signal Sweep scan, and related GTM campaign workflows.
+> Raw: [jet-seo local project snapshot](../../raw/intentional/pasted/2026-06-17-jet-seo-atlas-seo-content-pipeline-local-project.md); [TheCraigHewitt SEO Machine repository snapshot](../../raw/intentional/web/2026-06-19-thecraighewitt-seomachine-repository-snapshot.md); [AgriciDaniel Claude SEO README](../../raw/intentional/web/2026-06-11-agricidaniel-claude-seo-readme.md); [AgricIDaniel Claude SEO repository snapshot, June 2026](../../raw/intentional/web/2026-06-19-agricidaniel-claude-seo-repository-snapshot-june-2026.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [SEO/AEO/GEO Signal Sweep raw](../../raw/sweeps/signal-sweeps/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md); [SEO/AEO/GEO Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md)
 
 ## Overview
 
@@ -30,7 +30,7 @@ TheCraigHewitt's SEO Machine is the complementary content-production workspace. 
 
 ## AEO/GEO Framing
 
-AEO and GEO should be treated as answer/citation visibility layers on top of SEO fundamentals, not as magic new hacks. The Last30Days sweep showed repeated market vocabulary around ChatGPT, Perplexity, AI Overviews, direct answers, AI-ready schema, and visibility gap analysis. The more durable workflow is:
+AEO and GEO should be treated as answer/citation visibility layers on top of SEO fundamentals, not as magic new hacks. The Signal Sweep scan showed repeated market vocabulary around ChatGPT, Perplexity, AI Overviews, direct answers, AI-ready schema, and visibility gap analysis. The more durable workflow is:
 
 1. Identify real questions, jobs-to-be-done, comparison needs, and commercial/informational intent.
 2. Build pages with clear entities, definitions, steps, examples, evidence, FAQs, comparison tables, and source-backed claims.
@@ -53,7 +53,7 @@ Two implementation shapes are now worth separating:
 
 ## Sources
 
-The exact workflow details come from `jet-seo`, SEO Machine, and Claude SEO. The sweep is used only to establish that AEO/GEO/AI-search visibility is a live marketing topic in the last 30 days.
+The exact workflow details come from `jet-seo`, SEO Machine, and Claude SEO. The scan is used only to establish that AEO/GEO/AI-search visibility is a live marketing topic in the last 30 days.
 
 ## Raw Links
 
@@ -62,8 +62,8 @@ The exact workflow details come from `jet-seo`, SEO Machine, and Claude SEO. The
 - [AgriciDaniel Claude SEO README](../../raw/intentional/web/2026-06-11-agricidaniel-claude-seo-readme.md)
 - [AgricIDaniel Claude SEO repository snapshot, June 2026](../../raw/intentional/web/2026-06-19-agricidaniel-claude-seo-repository-snapshot-june-2026.md)
 - [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md)
-- [SEO/AEO/GEO Last30Days raw](../../raw/sweeps/last30days/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md)
-- [SEO/AEO/GEO Last30Days digest](../../staging/last30days/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md)
+- [SEO/AEO/GEO Signal Sweep raw](../../raw/sweeps/signal-sweeps/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md)
+- [SEO/AEO/GEO Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md)
 
 ## Open Questions
 

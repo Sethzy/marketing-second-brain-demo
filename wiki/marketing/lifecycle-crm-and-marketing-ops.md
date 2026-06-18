@@ -15,12 +15,12 @@ tags:
 
 # Lifecycle CRM And Marketing Ops
 
-> Sources: Eric Siu AI Marketing Skills README, lifecycle CRM Last30Days sweep, Agentic GTM Campaign Workflows, GTM Waterfall Enrichment APIs.
-> Raw: [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Lifecycle CRM Last30Days raw](../../raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md); [Lifecycle CRM Last30Days digest](../../staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
+> Sources: Eric Siu AI Marketing Skills README, lifecycle CRM Signal Sweep scan, Agentic GTM Campaign Workflows, GTM Waterfall Enrichment APIs.
+> Raw: [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Lifecycle CRM Signal Sweep raw](../../raw/sweeps/signal-sweeps/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md); [Lifecycle CRM Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
 
 ## Overview
 
-Lifecycle, CRM, and marketing ops are under-evidenced in the current sweep, but they matter because they connect marketing signal to routed action. The useful surface is capture, normalize, score, route, generate, govern, and measure across marketing automation, CRM, analytics, enrichment, and content-management tools.
+Lifecycle, CRM, and marketing ops are under-evidenced in the current scan, but they matter because they connect marketing signal to routed action. The useful surface is capture, normalize, score, route, generate, govern, and measure across marketing automation, CRM, analytics, enrichment, and content-management tools.
 
 The compiled workflow should therefore stay draft: enough to map the category, not enough to make specific tool claims. The strongest adjacent evidence is Eric Siu's skill repo, which includes Sales Pipeline, Revenue Intelligence, ICP Learner, RB2B Router, Deal Resurrector, Trigger Prospector, revenue attribution, and client reports. The GTM Sales wiki already covers signal routing, enrichment, CRM updates, and approval gates.
 
@@ -40,13 +40,13 @@ Lifecycle marketing ops is the bridge between marketing signals and seller actio
 
 ## Sources
 
-This page relies on Eric Siu and related GTM wiki pages for the category shape, with the sweep used only as a weak recency lead. Marketo/Salesforce primary docs and case studies still need capture.
+This page relies on Eric Siu and related GTM wiki pages for the category shape, with the scan used only as a weak recency lead. Marketo/Salesforce primary docs and case studies still need capture.
 
 ## Raw Links
 
 - [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md)
-- [Lifecycle CRM Last30Days raw](../../raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md)
-- [Lifecycle CRM Last30Days digest](../../staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
+- [Lifecycle CRM Signal Sweep raw](../../raw/sweeps/signal-sweeps/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md)
+- [Lifecycle CRM Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md)
 
 ## Open Questions
 

@@ -15,8 +15,8 @@ tags:
 
 # Performance Marketing Creative Ops
 
-> Sources: Anthropic growth-marketing article, Hesamation X capture, performance marketing Last30Days sweep, Eric Siu AI Marketing Skills README, Agency Agents README, Ivan Falco ads-skills repository snapshot, paid-ads Claude Code transcript.
-> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Hesamation X capture on Anthropic growth marketing](../../raw/intentional/x/2031497289617883451-hesamation-anthropic-s-entire-growth-marketing-team-has-been-one-person-for-10-months-the.md); [Performance marketing Last30Days raw](../../raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md); [Performance marketing Last30Days digest](../../staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Agency Agents README](../../raw/intentional/web/2026-06-11-agency-agents-readme.md); [Ivan Falco ads-skills repository snapshot](../../raw/intentional/web/2026-06-18-ivangfalco-ads-skills-repository-snapshot.md); [How To Get Unlimited Leads Using Claude Code For Paid Ads transcript](../../raw/intentional/youtube/2026-06-18-how-to-get-unlimited-leads-using-claude-code-for-paid-ads-tr.md)
+> Sources: Anthropic growth-marketing article, Hesamation X capture, performance marketing Signal Sweep scan, Eric Siu AI Marketing Skills README, Agency Agents README, Ivan Falco ads-skills repository snapshot, paid-ads Claude Code transcript.
+> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Hesamation X capture on Anthropic growth marketing](../../raw/intentional/x/2031497289617883451-hesamation-anthropic-s-entire-growth-marketing-team-has-been-one-person-for-10-months-the.md); [Performance marketing Signal Sweep raw](../../raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md); [Performance marketing Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Agency Agents README](../../raw/intentional/web/2026-06-11-agency-agents-readme.md); [Ivan Falco ads-skills repository snapshot](../../raw/intentional/web/2026-06-18-ivangfalco-ads-skills-repository-snapshot.md); [How To Get Unlimited Leads Using Claude Code For Paid Ads transcript](../../raw/intentional/youtube/2026-06-18-how-to-get-unlimited-leads-using-claude-code-for-paid-ads-tr.md)
 
 ## Overview
 
@@ -46,14 +46,14 @@ The durable public demo artifact is a working creative-ops loop: one input folde
 
 ## Sources
 
-Exact company claims should come from the Anthropic raw article. Sweep items are used for market trend shape and tool leads. The Hesamation X post is captured raw but remains third-party social evidence. The Ivan Falco repo/transcript are strongest as implementation shape: repo-native skills plus ad-platform APIs, paused-campaign defaults, audience building, enrichment, creative templates, and human approval gates.
+Exact company claims should come from the Anthropic raw article. Signal Sweep items are used for market trend shape and tool leads. The Hesamation X post is captured raw but remains third-party social evidence. The Ivan Falco repo/transcript are strongest as implementation shape: repo-native skills plus ad-platform APIs, paused-campaign defaults, audience building, enrichment, creative templates, and human approval gates.
 
 ## Raw Links
 
 - [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md)
 - [Hesamation X capture on Anthropic growth marketing](../../raw/intentional/x/2031497289617883451-hesamation-anthropic-s-entire-growth-marketing-team-has-been-one-person-for-10-months-the.md)
-- [Performance marketing Last30Days raw](../../raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
-- [Performance marketing Last30Days digest](../../staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md)
+- [Performance marketing Signal Sweep raw](../../raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
+- [Performance marketing Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md)
 - [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md)
 - [Agency Agents README](../../raw/intentional/web/2026-06-11-agency-agents-readme.md)
 - [Ivan Falco ads-skills repository snapshot](../../raw/intentional/web/2026-06-18-ivangfalco-ads-skills-repository-snapshot.md)

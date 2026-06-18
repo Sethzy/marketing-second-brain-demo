@@ -15,8 +15,8 @@ tags:
 
 # Content Ops And Editorial Systems
 
-> Sources: Anthropic growth-marketing article, Eric Siu AI Marketing Skills README, jet-seo local project snapshot, TheCraigHewitt SEO Machine repository snapshot, JAZII X content research agent article, AI content operations Last30Days sweep.
-> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [jet-seo local project snapshot](../../raw/intentional/pasted/2026-06-17-jet-seo-atlas-seo-content-pipeline-local-project.md); [TheCraigHewitt SEO Machine repository snapshot](../../raw/intentional/web/2026-06-19-thecraighewitt-seomachine-repository-snapshot.md); [JAZII X content research agent article](../../raw/intentional/pasted/2026-06-19-jazii-x-content-research-agent-article.md); [AI content operations Last30Days raw](../../raw/sweeps/last30days/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md); [AI content operations Last30Days digest](../../staging/last30days/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md)
+> Sources: Anthropic growth-marketing article, Eric Siu AI Marketing Skills README, jet-seo local project snapshot, TheCraigHewitt SEO Machine repository snapshot, JAZII X content research agent article, AI content operations Signal Sweep scan.
+> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [jet-seo local project snapshot](../../raw/intentional/pasted/2026-06-17-jet-seo-atlas-seo-content-pipeline-local-project.md); [TheCraigHewitt SEO Machine repository snapshot](../../raw/intentional/web/2026-06-19-thecraighewitt-seomachine-repository-snapshot.md); [JAZII X content research agent article](../../raw/intentional/pasted/2026-06-19-jazii-x-content-research-agent-article.md); [AI content operations Signal Sweep raw](../../raw/sweeps/signal-sweeps/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md); [AI content operations Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md)
 
 ## Overview
 
@@ -24,7 +24,7 @@ Content ops is where marketing AI can become a durable editorial system rather t
 
 Anthropic's marketing article spans multiple content surfaces: influencer and podcast scripts, customer case studies, product launch briefs, partner event enablement, and web workflows. Eric Siu's skill repo adds a workflow vocabulary: Content Ops, Expert Panel, Quality Gate, Editorial Brain, Quote Miner, Podcast-to-Everything, X Long-Form + Humanizer, and Autoresearch. The local `jet-seo` project shows the more deterministic version: briefs, MDX generation, validation, and publishing gates. SEO Machine adds a broader Claude Code workspace pattern: context files for brand voice, writing examples, feature truth, internal links, style, target keywords, competitor analysis, SEO guidelines, CRO best practices, AI-citation targets, commands, agents, data-source modules, and WordPress publishing.
 
-The content-ops sweep reinforces that the live conversation is moving toward brand voice, editorial quality, product marketing workflows, and taste. The wiki should keep one hard line: generation without source-backed review is not an editorial system.
+The content-ops Signal Sweep scan reinforces that the live conversation is moving toward brand voice, editorial quality, product marketing workflows, and taste. The wiki should keep one hard line: generation without source-backed review is not an editorial system.
 
 JAZII's X content research agent is the clearest captured statement of the order of operations for social/editorial AI: research first, patterns second, writing third. The agent tracks creators and keywords, collects posts that are performing or creating strong replies, extracts hook/topic/format/emotion/reader fit, groups ideas into "post today," "save pattern," and "overused angle," then sends daily angles while the human keeps taste and final voice.
 
@@ -44,7 +44,7 @@ The system should preserve taste by making taste explicit: examples, rubrics, re
 
 ## Sources
 
-Exact examples come from Anthropic, Eric Siu, `jet-seo`, SEO Machine, and JAZII's pasted X article. Sweep sources provide recency and tool/topic leads.
+Exact examples come from Anthropic, Eric Siu, `jet-seo`, SEO Machine, and JAZII's pasted X article. Signal Sweep sources provide recency and tool/topic leads.
 
 ## Raw Links
 
@@ -53,8 +53,8 @@ Exact examples come from Anthropic, Eric Siu, `jet-seo`, SEO Machine, and JAZII'
 - [jet-seo local project snapshot](../../raw/intentional/pasted/2026-06-17-jet-seo-atlas-seo-content-pipeline-local-project.md)
 - [TheCraigHewitt SEO Machine repository snapshot](../../raw/intentional/web/2026-06-19-thecraighewitt-seomachine-repository-snapshot.md)
 - [JAZII X content research agent article](../../raw/intentional/pasted/2026-06-19-jazii-x-content-research-agent-article.md)
-- [AI content operations Last30Days raw](../../raw/sweeps/last30days/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md)
-- [AI content operations Last30Days digest](../../staging/last30days/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md)
+- [AI content operations Signal Sweep raw](../../raw/sweeps/signal-sweeps/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md)
+- [AI content operations Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md)
 
 ## Open Questions
 

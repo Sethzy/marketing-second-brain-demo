@@ -1,6 +1,6 @@
-# Last30Days Digest: AI UGC creator generation influencer videos TikTok Reels product ads
+# Signal Sweep Digest: AI UGC creator generation influencer videos TikTok Reels product ads
 
-> Raw: ../../raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md
+> Raw: ../../raw/sweeps/signal-sweeps/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md
 > Window: 2026-05-18 to 2026-06-17
 > Generated: 2026-06-17
 > Status: staged
@@ -33,6 +33,6 @@
 
 ## Cautions
 
-- The sweep includes tutorials and promotional material; treat claims as leads until exact capture.
+- The scan includes tutorials and promotional material; treat claims as leads until exact capture.
 - Synthetic people in marketing can create legal, trust, and platform risks.
 - The wiki should avoid endorsing deceptive creator/influencer tactics.

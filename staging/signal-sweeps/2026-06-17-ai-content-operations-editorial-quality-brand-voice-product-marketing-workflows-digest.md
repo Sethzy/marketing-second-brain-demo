@@ -1,6 +1,6 @@
-# Last30Days Digest: AI content operations editorial quality brand voice product marketing workflows
+# Signal Sweep Digest: AI content operations editorial quality brand voice product marketing workflows
 
-> Raw: ../../raw/sweeps/last30days/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md
+> Raw: ../../raw/sweeps/signal-sweeps/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md
 > Window: 2026-05-18 to 2026-06-17
 > Generated: 2026-06-17
 > Status: staged

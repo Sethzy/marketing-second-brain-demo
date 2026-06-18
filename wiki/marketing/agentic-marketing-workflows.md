@@ -65,7 +65,7 @@ A useful agentic marketing loop has five layers:
 
 ## Sources
 
-This page synthesizes exact captures and staged sweeps. The sweep evidence supports trend vocabulary, while exact company/tool claims should be traced to the raw captures listed below.
+This page synthesizes exact captures and staged scans. The scan evidence supports trend vocabulary, while exact company/tool claims should be traced to the raw captures listed below.
 
 ## Raw Links
 

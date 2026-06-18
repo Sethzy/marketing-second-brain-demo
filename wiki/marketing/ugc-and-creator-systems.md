@@ -15,14 +15,14 @@ tags:
 
 # UGC And Creator Systems
 
-> Sources: AI UGC Last30Days sweep, AI influencers raw capture, performance marketing sweep, related artifact/video editing captures.
-> Raw: [AI UGC Last30Days raw](../../raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md); [AI UGC Last30Days digest](../../staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md); [AI influencers raw capture](../../raw/intentional/pasted/sunder-sync-2026-06-11/094-how-to-generate-ai-influencers-that-actually-look-real-twitter-alexcooldev-2020883184922324994-full.md); [Performance marketing Last30Days raw](../../raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
+> Sources: AI UGC Signal Sweep scan, AI influencers raw capture, performance marketing sweep, related artifact/video editing captures.
+> Raw: [AI UGC Signal Sweep raw](../../raw/sweeps/signal-sweeps/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md); [AI UGC Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md); [AI influencers raw capture](../../raw/intentional/pasted/sunder-sync-2026-06-11/094-how-to-generate-ai-influencers-that-actually-look-real-twitter-alexcooldev-2020883184922324994-full.md); [Performance marketing Signal Sweep raw](../../raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
 
 ## Overview
 
 AI UGC and creator systems are a live marketing trend, but they need careful framing. The value is generating product-video and paid-social creative variants with UGC-style formats. The risk is deceptive synthetic identity, rights/likeness problems, platform-policy violations, and brand trust damage.
 
-The Last30Days sweep surfaced a broad set of tutorials and tool mentions around AI UGC ads, TikTok/Reels product videos, AI creator generation, Arcads-style workflows, video models, and AI studios. Existing raw evidence on AI influencers gives a more concrete production lesson: realism depends on identity consistency, specific environments, smartphone-like framing, imperfect/lived-in scenes, and avoiding overly polished synthetic output.
+The Signal Sweep scan surfaced a broad set of tutorials and tool mentions around AI UGC ads, TikTok/Reels product videos, AI creator generation, Arcads-style workflows, video models, and AI studios. Existing raw evidence on AI influencers gives a more concrete production lesson: realism depends on identity consistency, specific environments, smartphone-like framing, imperfect/lived-in scenes, and avoiding overly polished synthetic output.
 
 This page should stay draft until more primary sources are captured, especially platform policies and tool docs.
 
@@ -44,14 +44,14 @@ This page should stay draft until more primary sources are captured, especially 
 
 ## Sources
 
-The sweep establishes a strong public trend. The AI influencer capture provides a concrete prompt/style workflow. More primary policy and tool captures are needed before this becomes an active playbook.
+The scan establishes a strong public trend. The AI influencer capture provides a concrete prompt/style workflow. More primary policy and tool captures are needed before this becomes an active playbook.
 
 ## Raw Links
 
-- [AI UGC Last30Days raw](../../raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md)
-- [AI UGC Last30Days digest](../../staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md)
+- [AI UGC Signal Sweep raw](../../raw/sweeps/signal-sweeps/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md)
+- [AI UGC Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md)
 - [AI influencers raw capture](../../raw/intentional/pasted/sunder-sync-2026-06-11/094-how-to-generate-ai-influencers-that-actually-look-real-twitter-alexcooldev-2020883184922324994-full.md)
-- [Performance marketing Last30Days raw](../../raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
+- [Performance marketing Signal Sweep raw](../../raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md)
 
 ## Open Questions
 

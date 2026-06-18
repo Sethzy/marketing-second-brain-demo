@@ -1,6 +1,6 @@
-# Last30Days Digest: performance marketing AI ad generation Google Ads Meta Ads creative variants
+# Signal Sweep Digest: performance marketing AI ad generation Google Ads Meta Ads creative variants
 
-> Raw: ../../raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
+> Raw: ../../raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md
 > Window: 2026-05-18 to 2026-06-17
 > Generated: 2026-06-17
 > Status: staged
@@ -17,14 +17,14 @@
 
 - Creative ops are becoming data loops: export performance, diagnose weak assets, generate hypotheses, create variants, review, upload, and measure again.
 - The marketer's leverage is in the harness: brand rules, offer constraints, product truth, platform character limits, naming conventions, campaign data, and measurement feedback.
-- Tools mentioned in the sweep range from ad-creative generators to n8n-style ad studios and agentic chat interfaces for Google Ads operations.
+- Tools mentioned in the scan range from ad-creative generators to n8n-style ad studios and agentic chat interfaces for Google Ads operations.
 - Human approval remains a core gate before platform upload or spend changes.
 
 ## Candidate Wiki Updates
 
 - Create `wiki/marketing/performance-marketing-creative-ops.md`.
 - Promote the Anthropic Figma plugin and RSA workflow as exact examples.
-- Add the sweep as evidence that AI ad generation is a live trend across Google Ads, Meta Ads, and creative-variant tooling.
+- Add the scan as evidence that AI ad generation is a live trend across Google Ads, Meta Ads, and creative-variant tooling.
 - Link to `marketing-analytics-and-enablement.md` because creative generation without measurement feedback is incomplete.
 
 ## Sources Worth Manual Capture
@@ -35,6 +35,6 @@
 
 ## Cautions
 
-- The sweep has weak YouTube transcript coverage.
+- The scan has weak YouTube transcript coverage.
 - Do not promote tool capability, ROAS, CPA, or performance claims from ads unless captured from primary or high-trust sources.
 - Platform actions should stay approval-gated: no autonomous spend, upload, pausing, or targeting changes without review.

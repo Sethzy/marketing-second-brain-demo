@@ -12,7 +12,7 @@ qmd search "performance marketing creative ops"
 Use structured semantic search when the question is conceptual:
 
 ```bash
-qmd query $'intent: Find source-backed marketing workflows that turn noisy social or web signal into funnel assets.\nlex: Last30Days X capture raw staging wiki marketing workflow funnel\nvec: source-backed marketing intelligence system with raw evidence and compiled wiki pages\nhyde: A marketing second brain captures X posts and recent-market sweeps, stages lower-trust signal, compiles durable workflow pages, and answers with raw citations.'
+qmd query $'intent: Find source-backed marketing workflows that turn noisy social or web signal into funnel assets.\nlex: Signal Sweep X capture raw staging wiki marketing workflow funnel\nvec: source-backed marketing intelligence system with raw evidence and compiled wiki pages\nhyde: A marketing second brain captures exact X posts and recent-market Signal Sweep scans, stages lower-trust signal, compiles durable workflow pages, and answers with raw citations.'
 ```
 
 Fetch full sources before answering:
@@ -30,4 +30,3 @@ scripts/qmd-refresh.sh --embed
 ```
 
 Do not commit `.qmd/`.
-

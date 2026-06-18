@@ -1,6 +1,6 @@
-# Last30Days Digest: marketing analytics attribution dashboards experiment measurement AI workflows
+# Signal Sweep Digest: marketing analytics attribution dashboards experiment measurement AI workflows
 
-> Raw: ../../raw/sweeps/last30days/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md
+> Raw: ../../raw/sweeps/signal-sweeps/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md
 > Window: 2026-05-18 to 2026-06-17
 > Generated: 2026-06-17
 > Status: staged
@@ -8,7 +8,7 @@
 
 ## Strong Signals
 
-- The sweep points to measurement as the missing half of agentic marketing: dashboards, attribution, experiment tracking, and AI agents that can inspect performance data.
+- The scan points to measurement as the missing half of agentic marketing: dashboards, attribution, experiment tracking, and AI agents that can inspect performance data.
 - Lifesight MCP and Claude/Fable-style feedback loops appeared as leads for analytics inside agent workspaces.
 - Marketing enablement is its own analytics problem: cohort maturity, number of transformed workflows, and AI-first task adoption.
 - Eric Siu's Growth Engine and Revenue Intelligence skills provide exact workflow categories for experiments, weekly scorecards, attribution, and client reports.

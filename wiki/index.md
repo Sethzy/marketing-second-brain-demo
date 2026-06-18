@@ -6,7 +6,7 @@ This index routes agents and readers through the marketing-only demo corpus.
 
 ```text
 intentional captures -> raw/intentional -> compiled marketing wiki
-last30days sweeps    -> raw/sweeps      -> staging digest -> optional wiki promotion
+signal scans         -> raw/sweeps      -> staging digest -> optional wiki promotion
 queries              -> QMD or rg       -> wiki + raw citations
 ```
 
@@ -34,4 +34,3 @@ queries              -> QMD or rg       -> wiki + raw citations
 - Use `wiki/` first for "what do I know about..." questions.
 - Use `raw/` first for exact source recall, URLs, handles, or remembered phrases.
 - Use `staging/` for recent-signal leads and incomplete captures, but mark uncertainty.
-

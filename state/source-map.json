@@ -275,13 +275,13 @@
       "notes": "Demo corpus intentional capture used as source evidence."
     },
     {
-      "id": "raw/sweeps/last30days/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md",
-      "title": "last30days v3.3.0: AI content operations editorial quality brand voice product marketing workflows",
+      "id": "raw/sweeps/signal-sweeps/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md",
+      "title": "Signal Sweep raw: AI content operations editorial quality brand voice product marketing workflows",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -292,13 +292,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md",
-      "title": "last30days v3.3.0: AI UGC creator generation influencer videos TikTok Reels product ads",
+      "id": "raw/sweeps/signal-sweeps/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md",
+      "title": "Signal Sweep raw: AI UGC creator generation influencer videos TikTok Reels product ads",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -309,13 +309,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md",
-      "title": "last30days v3.3.0: autonomous landing pages AI website generation Flint Clay ABM personalization",
+      "id": "raw/sweeps/signal-sweeps/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md",
+      "title": "Signal Sweep raw: autonomous landing pages AI website generation Flint Clay ABM personalization",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -326,13 +326,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md",
-      "title": "last30days v3.3.0: marketing analytics attribution dashboards experiment measurement AI workflows",
+      "id": "raw/sweeps/signal-sweeps/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md",
+      "title": "Signal Sweep raw: marketing analytics attribution dashboards experiment measurement AI workflows",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -343,13 +343,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md",
-      "title": "last30days v3.3.0: marketing ops lifecycle CRM Marketo Salesforce lead scoring nurture AI agents",
+      "id": "raw/sweeps/signal-sweeps/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md",
+      "title": "Signal Sweep raw: marketing ops lifecycle CRM Marketo Salesforce lead scoring nurture AI agents",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -360,13 +360,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md",
-      "title": "last30days v3.3.0: performance marketing AI ad generation Google Ads Meta Ads creative variants",
+      "id": "raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md",
+      "title": "Signal Sweep raw: performance marketing AI ad generation Google Ads Meta Ads creative variants",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -378,13 +378,13 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "raw/sweeps/last30days/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md",
-      "title": "last30days v3.3.0: SEO AEO GEO LLM search AI search visibility marketing workflows",
+      "id": "raw/sweeps/signal-sweeps/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md",
+      "title": "Signal Sweep raw: SEO AEO GEO LLM search AI search visibility marketing workflows",
       "url": "Unknown",
-      "source_type": "last30days",
+      "source_type": "signal_sweep",
       "trust_lane": "sweep",
       "capture_quality": "complete",
-      "raw_path": "raw/sweeps/last30days/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md",
+      "raw_path": "raw/sweeps/signal-sweeps/seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-raw.md",
       "staging_path": null,
       "status": "compiled",
       "wiki_paths": [
@@ -414,134 +414,134 @@
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md",
-      "title": "Last30Days Digest: AI content operations editorial quality brand voice product marketing workflows",
+      "id": "staging/signal-sweeps/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md",
+      "title": "Signal Sweep Digest: AI content operations editorial quality brand voice product marketing workflows",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/content-ops-and-editorial-systems.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md"
+        "staging/signal-sweeps/2026-06-17-ai-content-operations-editorial-quality-brand-voice-product-marketing-workflows-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md",
-      "title": "Last30Days Digest: AI UGC creator generation influencer videos TikTok Reels product ads",
+      "id": "staging/signal-sweeps/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md",
+      "title": "Signal Sweep Digest: AI UGC creator generation influencer videos TikTok Reels product ads",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/ugc-and-creator-systems.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md"
+        "staging/signal-sweeps/2026-06-17-ai-ugc-creator-generation-influencer-videos-tiktok-reels-product-ads-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md",
-      "title": "Last30Days Digest: autonomous landing pages AI website generation Flint Clay ABM personalization",
+      "id": "staging/signal-sweeps/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md",
+      "title": "Signal Sweep Digest: autonomous landing pages AI website generation Flint Clay ABM personalization",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/autonomous-websites-and-landing-pages.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md"
+        "staging/signal-sweeps/2026-06-17-autonomous-landing-pages-ai-website-generation-flint-clay-abm-personalization-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md",
-      "title": "Last30Days Digest: marketing analytics attribution dashboards experiment measurement AI workflows",
+      "id": "staging/signal-sweeps/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md",
+      "title": "Signal Sweep Digest: marketing analytics attribution dashboards experiment measurement AI workflows",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/marketing-analytics-and-enablement.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md"
+        "staging/signal-sweeps/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md",
-      "title": "Last30Days Digest: marketing ops lifecycle CRM Marketo Salesforce lead scoring nurture AI agents",
+      "id": "staging/signal-sweeps/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md",
+      "title": "Signal Sweep Digest: marketing ops lifecycle CRM Marketo Salesforce lead scoring nurture AI agents",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/lifecycle-crm-and-marketing-ops.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md"
+        "staging/signal-sweeps/2026-06-17-marketing-ops-lifecycle-crm-marketo-salesforce-lead-scoring-nurture-ai-agents-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md",
-      "title": "Last30Days Digest: performance marketing AI ad generation Google Ads Meta Ads creative variants",
+      "id": "staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md",
+      "title": "Signal Sweep Digest: performance marketing AI ad generation Google Ads Meta Ads creative variants",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/performance-marketing-creative-ops.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md"
+        "staging/signal-sweeps/2026-06-17-performance-marketing-ai-ad-generation-google-ads-meta-ads-creative-variants-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."
     },
     {
-      "id": "staging/last30days/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md",
-      "title": "Last30Days Digest: SEO AEO GEO LLM search AI search visibility marketing workflows",
+      "id": "staging/signal-sweeps/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md",
+      "title": "Signal Sweep Digest: SEO AEO GEO LLM search AI search visibility marketing workflows",
       "url": "Unknown",
-      "source_type": "staging",
+      "source_type": "signal_sweep",
       "trust_lane": "staging",
       "capture_quality": "partial",
       "raw_path": null,
-      "staging_path": "staging/last30days/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md",
+      "staging_path": "staging/signal-sweeps/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md",
       "status": "staged",
       "wiki_paths": [
         "wiki/marketing/seo-aeo-geo-content-systems.md"
       ],
       "staging_paths": [
-        "staging/last30days/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md"
+        "staging/signal-sweeps/2026-06-17-seo-aeo-geo-llm-search-ai-search-visibility-marketing-workflows-digest.md"
       ],
       "updated_at": "2026-06-19T00:00:00Z",
       "notes": "Demo corpus recent-signal or staging source; verify before promoting durable claims."

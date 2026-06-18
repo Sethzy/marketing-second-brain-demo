@@ -14,8 +14,8 @@ tags:
 
 # Marketing Analytics And Enablement
 
-> Sources: Anthropic growth-marketing article, Eric Siu AI Marketing Skills README, marketing analytics Last30Days sweep, performance and content workflow pages.
-> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Marketing analytics Last30Days raw](../../raw/sweeps/last30days/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md); [Marketing analytics Last30Days digest](../../staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md)
+> Sources: Anthropic growth-marketing article, Eric Siu AI Marketing Skills README, marketing analytics Signal Sweep scan, performance and content workflow pages.
+> Raw: [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md); [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md); [Marketing analytics Signal Sweep raw](../../raw/sweeps/signal-sweeps/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md); [Marketing analytics Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md)
 
 ## Overview
 
@@ -45,14 +45,14 @@ A marketing enablement dashboard should answer:
 
 ## Sources
 
-Exact marketing-workflow examples come from Anthropic and Eric Siu. The Last30Days analytics sweep is a lead source for tool categories such as analytics MCPs, dashboards, attribution, and experiment workflows.
+Exact marketing-workflow examples come from Anthropic and Eric Siu. The analytics Signal Sweep scan is a lead source for tool categories such as analytics MCPs, dashboards, attribution, and experiment workflows.
 
 ## Raw Links
 
 - [Anthropic growth marketing article](../../raw/intentional/web/2026-06-11-anthropic-growth-marketing-article.md)
 - [Eric Siu AI Marketing Skills README](../../raw/intentional/web/2026-06-11-eric-siu-ai-marketing-skills-readme.md)
-- [Marketing analytics Last30Days raw](../../raw/sweeps/last30days/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md)
-- [Marketing analytics Last30Days digest](../../staging/last30days/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md)
+- [Marketing analytics Signal Sweep raw](../../raw/sweeps/signal-sweeps/marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-raw.md)
+- [Marketing analytics Signal Sweep digest](../../staging/signal-sweeps/2026-06-17-marketing-analytics-attribution-dashboards-experiment-measurement-ai-workflows-digest.md)
 
 ## Open Questions
 
