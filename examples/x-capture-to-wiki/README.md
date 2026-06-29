@@ -26,6 +26,14 @@ scripts/x-capture-to-raw.sh "https://x.com/bryantchou/status/..."
 
 Authenticated X capture requires browser/cookie tooling that is not committed to this public demo.
 
+If a team already uses TweetClaw through OpenClaw, reviewed JSON output can also enter the same raw-evidence lane:
+
+```bash
+scripts/tweetclaw-json-to-raw.sh "Ploy launch X examples" ./tmp/tweetclaw-ploy.json "https://x.com/search?q=ploy%20launch"
+```
+
+This preserves TweetClaw search or lookup results as immutable source captures before any wiki synthesis. Do not promote imported tweets directly into `wiki/` until a marketer reviews the source quality and decides which claims are durable.
+
 ## Compile
 
 The captured post supports two compiled pages:
